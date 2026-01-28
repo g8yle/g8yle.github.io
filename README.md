@@ -1,2 +1,2 @@
-# g8yle.github.net
+# g8yle.github.io
 website
